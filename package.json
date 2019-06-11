@@ -1,0 +1,19 @@
+{
+  "name": "june",
+  "version": "1.0.0",
+  "description": "nugu-play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ssee0328/nugu.git"
+  },
+  "author": "seongeun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssee0328/nugu/issues"
+  },
+  "homepage": "https://github.com/ssee0328/nugu#readme"
+}
